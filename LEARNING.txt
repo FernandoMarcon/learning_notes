@@ -1,0 +1,150 @@
+LEARNING
+
++ Bioinformatics
+	bulk RNA-Seq 
+
+	Preprocessing 
+
+	    https://galaxyproject.github.io/training-material/topics/transcriptomics/tutorials/rna-seq-reads-to-counts/tutorial.html 
+
+	 
+
+	DE Analysis 
+
+	    https://hbctraining.github.io/DGE_workshop/lessons/02_DGE_count_normalization.html 
+
+	    https://www.bioconductor.org/packages/devel/bioc/vignettes/DEGreport/inst/doc/DEGreport.html 
+
+	Pathway Analysis 
+
+	    https://www.youtube.com/watch?v=PtWf-XSzUYc  
+
+	 
+
+	Single-cell RNA-Seq 
+
+	    https://www.youtube.com/watch?v=ajGAvAa7HNE&list=PLmNPvQr9Tf-a4MrEG5thq3qzlkrF5NFbC&index=6 
+
+	Data Integration 
+
+	    https://www.youtube.com/watch?v=HwPzUvbb6Pw 
+
+	    https://joe.bioscientifica.com/view/journals/joe/238/1/JOE-18-0117.xml 
+
+	    https://github.com/cssblab/iOmicsPASS/blob/master/iOmicsPASSmanual.pdf 
+
+	    https://www.youtube.com/watch?v=XLAQ0-VGuik 
+
+	    https://www.youtube.com/watch?v=JivT4YUZ7ss 
+
+	Page Break 
+
+	    https://www.youtube.com/watch?v=tSrqLZPEXJE 
+
+	Page Break 
+
+	    https://www.youtube.com/watch?v=HwPzUvbb6Pw&list=WL&index=35 
+
+	Predictors 
+
+	    https://www.youtube.com/watch?v=pQg04M4gfAk 
+
+	    Predictors 
+
+	    https://www.youtube.com/watch?v=pQg04M4gfAk 
++ Immune System 
+	Computational/Modeling
+	https://www.youtube.com/watch?v=1rZvbe3FQU8
+	https://www.youtube.com/watch?v=w7IfoDK8yw0
+	https://www.youtube.com/watch?v=WIppmXxFTig
+	https://www.youtube.com/watch?v=wk_eRM_XbC8
+	https://www.youtube.com/watch?v=QeVRv_-ECjo
+	https://www.youtube.com/watch?v=kYvJvWC32Nc
+	https://www.youtube.com/watch?v=S78_xg9xh20
+	https://www.youtube.com/watch?v=ASsomvXdznI
+	https://www.youtube.com/watch?v=2igZ_foHDrY
+	https://www.youtube.com/watch?v=8-TUG084GW4
+	https://www.youtube.com/watch?v=PC2jYf4YC84
+	https://www.youtube.com/watch?v=9frxX26SYZ8
+	https://www.youtube.com/watch?v=1rZvbe3FQU8
+	https://www.youtube.com/watch?v=JcK07cCP4to
+	https://www.youtube.com/watch?v=2aJkpXX05Ag
+	https://www.youtube.com/watch?v=LjddsUi78sg
+	https://www.youtube.com/watch?v=GQhNqiFG504
+	https://www.youtube.com/watch?v=g7V9_2P2nNA
+	https://www.youtube.com/watch?v=_lZvVdprm_8
+
+Knowledge Structuring
+	Knowledge Base
+		https://www.youtube.com/watch?v=xWm3Td98MpA&list=PLQ45kJKYgpbmhyO9dIXe2ur2evFRQA5_U&index=2
+		https://www.youtube.com/watch?time_continue=60&v=0qwNFXl0acY&feature=emb_logo
+		https://www.youtube.com/watch?v=BQZKs75RMqM
+		https://www.youtube.com/watch?v=V-O-RFSRe-E
+		https://www.youtube.com/watch?v=QX_DLrT8JMU
+		https://www.youtube.com/watch?v=tWw4kJzy7uo
+		https://openknowledgemaps.org/
+
+	+ Natural Language Processing
+	|- with Python
+		https://www.youtube.com/watch?v=w36-U-ccajM&list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL&index=2
+
++ Multiplex Immuneassays
+	- Luminex
+		https://www.youtube.com/watch?v=HW6aEFqzEzQ&list=PLmOwuMEBTAjkelp8kDTQzwCtBsh7M30Q4
+		https://cran.r-project.org/web/packages/drLumi/vignettes/drLumi.pdf
+
++ Linear Algebra
+	https://www.youtube.com/watch?v=i8FukKfMKCI
+	https://www.youtube.com/watch?v=PFDu9oVAE-g
+	https://www.youtube.com/watch?v=cdZnhQjJu4I
+	https://www.youtube.com/watch?v=lEZPfmGCEk0
+
++ Network Anaysis
+	- Graph theory
+		https://www.youtube.com/watch?v=09_LlHjoEiY
+
+	- Network Science
+	- 
++ Mathematical Transformations
+|- Fourier/Laplace
+		https://www.youtube.com/watch?v=3gjJDuCAEQQ
+		https://www.youtube.com/watch?v=n2y7n6jw5d0
+		https://www.youtube.com/watch?v=9RJml41PFnc
+		https://www.youtube.com/watch?v=spUNpyF58BY
+
++ Statistics/Probability
+|- General
+	https://www.youtube.com/watch?v=1tSqSMOyNFE
+
+	Statistical Analysis
+		- Survival Analysis
+			https://www.youtube.com/watch?v=fTX8GghbBPc&list=PLRW9kMvtNZOjXOgq4XTBTqdLb89YW1Ygc
+
+
+|- Bayesian
+https://www.youtube.com/watch?v=cdZnhQjJu4I
+https://www.youtube.com/watch?v=lEZPfmGCEk0
+	https://www.youtube.com/watch?v=R13BD8qKeTg
+
+
+
++ Calculus
+	https://www.youtube.com/watch?v=tt2DGYOi3hc
+
++ Electrical Engineering Math Concepts
+	https://www.youtube.com/playlist?list=PLi5WqFHu_OJN7Mb2aAgqcao2R3s9wbBEr
+
++ Physics
+	https://www.youtube.com/watch?v=5EYFlnI_0ew&list=PLi5WqFHu_OJN9g1BX6ZCGC3XNxL5NCgfW
+
++ Math
+	https://www.youtube.com/watch?v=GLMZc2EzsaI&list=PLi5WqFHu_OJMRXrzLaCr94bAEAP-8f7un
+
++ Mechanical Engeneering
+	https://www.youtube.com/watch?v=W74y1RxN6BA&list=PLi5WqFHu_OJOkwyeHyD06tPyJ_srHC4ZU
+
++ Computer Science
+	https://www.youtube.com/watch?v=Tzl0ELY_TiM&list=PLi5WqFHu_OJMouMI0TC6uH4AjqJqKdA0x
+
++ Electrical Engeneering
+	https://www.youtube.com/watch?v=QQewdCJTcIU&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2

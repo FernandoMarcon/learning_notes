@@ -127,9 +127,6 @@ Typical Job Description
 ## Algorithmic Trading with R
 - [R and Bond Trading](https://github.com/FernandoMarcon/learning_notes/blob/main/finance/r_and_bond_trading.R)
 
-## Algorithimic Trading with Stata
-- [Investment Analysis and Stata]()
-
 ## Sources:
 - [Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training (LinkedIn Course)](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training/)
 -

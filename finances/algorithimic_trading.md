@@ -129,4 +129,3 @@ Typical Job Description
 
 ## Sources:
 - [Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training (LinkedIn Course)](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training/)
--

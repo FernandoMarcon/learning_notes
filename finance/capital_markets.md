@@ -339,7 +339,6 @@ The MSRB is the Municipal Securities Ruling Board and they are:
 - Municipal bonds have a default rate of 0.00%, whhere Corporate bonds have a rate of 0.38%
 - All rated municipal bonds have a lower 10-year cumulative default rate htan AAA-rated corporate bonds.
 
-
 ### Trading in municipal bonds
 [EMMA] (emma.msrb.org)
 
@@ -348,20 +347,60 @@ The MSRB is the Municipal Securities Ruling Board and they are:
 - What is the term for money an investor receives from a bond issuer at maturity? Par is the term for face value of bond received at maturity.
 -  This is the future value you will receive from the bond.
 
-
 ## Other Capital Markets
 ### FX markets
 - Foreign Exchange Market
+- Many large companies use the foreign exchange market in order to hedge their risks against changes in the currency exchange rate. This lets large companies hedge their risks against changes in the exchange rates that are based on the countries' economies.
+- FX traders often use what are called futures contracts, which lets them lever up: they can trade a million dollars at a time, even if they only have a few thousand dollars in their own personal accounts.
+- Trading FX is about trading expectations on the economy.
+- It's very risky, and small changes get magnified a lot through the power of futures.
+- When your are dealing with FX trading you are often captilizing on very, very small mover over time.
+- The bid-ask spread can be significant if you're not careful.
 
 **Buying and selling in FX**
+- [FOREX](www.forex.com)
 
-**FX arbitrage**
+#### Trading Strategies
+- **FX arbitrage**
+  > **_Triangular Arbitrage_**: Capitalizing on differences in FX trading across three currencies
+    - Option 1: USD to JPY: 1 USD = 108 JPY
+    - Option 2: USD to EUR to JPY: 1 USD = 110 JPY
 
 ### Commodity markets
-**Buying and selling in commodities**
+Commodities includes a variety of phisical products and they're bought and sold through exchanges.
+- Agricutural products
+- Metals (silver, gold, etc)
+- Energy (natural gas, electriciy, etc)
 
-**Commodities and contango**
+Commodity prices are stationary and related to inflation.
 
+Trading:
+- **_SPOT trading_**: Buying goods for delivery _today_
+- **_Futures trading_**: Buying goods for deliverly _in the future_.
+- Because of the price for storing commodities, _futures prices_ are usually _higher_ than spot prices.
+
+Factors that drive commodity prices:
+- Economic growth
+- Exploration or developments that can change the supplies/demands
+- Weather
+- Storage
+- Any kind of short-term supply shocks
+- Regulations
+
+Investments:
+  - Equity in commodity-related companies
+  - Physical commodity via the spot market
+  - Commodity derivatieves (futures, swaps, etc.)
+
+Information:
+- [Bloomberg](www.bloomberg.com/markets/commodities)
+- [NASDAQ](nasdaq.com)
+
+Commodities and contango:
+  - Contango (aka forwardation) is a situation where the futures price of a commodity is higher than the expected spot price at maturity
+  - it dramatically impacts some of the products, such as USO (US Oil)
+    - part of the contributing factor might be that essentially it has to pay for storage costs through the futures prices
+  -  Contango leads the futures price to be higher than the spot price because of certain other contributing factors.
 
 # Sources:
 - [Understanding Capital Markets (LinkedIn)](https://www.linkedin.com/learning/understanding-capital-markets/)

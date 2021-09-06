@@ -4,21 +4,18 @@
 ##########
 
 #--- Load Libraries
-# install.packages('quantmod')
-# install.packages('BatchGetSymbols')
 library(quantmod)
-library(BatchGetSymbols)
 
-#--- Retrieve information using `quantnid`
-# Apple (AAPL)
+#--- Data Retrieval and Visualization with `quantnid`
+# Get Apple (AAPL) Stock Prices
 getSymbols('AAPL')
 head(AAPL)
 
-#--- Visualization
 barChart(AAPL)
 
 barChart(AAPL, subset='last 28 days')
-# Microsoft (MSFT)
+
+# Get Microsoft (MSFT) Stock Prices
 rm(AAPL)
 getSymbols('MSFT')
 chartSeries(MSFT)

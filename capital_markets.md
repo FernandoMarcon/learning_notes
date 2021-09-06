@@ -197,5 +197,171 @@ $Growth Rate = This\ Year's\ Revenue - Last\ Year's\ Revenue$
 -   The median price for stock is usually higher than the mean (the average).
 -    The market opens at 9:30 a.m. Eastern on all non-holiday weekdays.
 -     While growth stocks often do not pay dividends, they more often have positive returns than value stocks.
+
+## Bond Markets
+> **_Bond_**: Long-term promissory note, issued by a borrower, promising to its holder a predetermined and fixed amount of interest per year and repayment of principal at maturity.
+
+Issued by corporations, government, state, local municipalities
+
+
+**Major characteristics of bonds:**
+- > **_Par value_**: Face value of the bond, returned to the bondholder at maturity
+- > **_Price_**: Represented as a percentage of face value or par
+- > **_Coupon_**: Percentage of the par value of bond that will be paid periodically in the form of interest.
+  - $1,000 par value x 5% annual coupon rate = $50 annually
+  - Zero Coupon Bonds:
+    - Zero or low coupon rate
+    - Don't pay interest
+    - Issued at discount below par value
+- > **_Maturity_**: Length of time until bond issuer returns the par value to the bondholder and terminates or redeems the bond
+- > **_Yield_**: Rate of return the investor will earn on the bond after taking into account the price paid for the bond and the coupon on the bond
+
+> **_Call Provision_**: Gives a corporation the option to redeem the bonds before the maturity date
+
+**Bond Rating**
+- Reflects future risk potential of bonds
+- Moody's: AAA, AA1, AA2, AA3, A1, A2, A3, BAA1, BAA2, BAA3, BA1, BA2, BA3, B1, B3, CAA1, CAA2, CAA4, CA, ..., D
+- The lower the bond rating is the higher the probability of default.
+- When the bond defaults, that means that it stops paying coupon payments and interest to the investor, and investors may not get all their money back.
+- Bond rating Agency's are jusding how risky the bond is and how likely the company is to pay back the money the investor has let to them by buyuing that company's bonds.
+- Riskier bonds means an investor won't get paid (all)  their money back, and also that the rate of return demanded by capital markets is going to be higher.
+- If a bond is riskier, you're going to need more in yield, or coupon payments, in order to buy that bond in the first place.
+
+> **_Junk Bonds_**: High-risk bonds with ratings of BB or below by Moody's and Standard&Poor's
+  - High-yield
+  - Higher interest (3-5% more) than AAA-rated bonds
+
+**Bond evaluation**
+
+Ex:
+- Maturity: 10
+- Par: $1000
+- Coupon: Par x 0.08 = 80
+- Yield: 0.06
+- **Value of Bond**: $1,147.20
+- **Price**: $-114.72017
+
+[Present Value](https://www.investopedia.com/ask/answers/040315/how-do-you-calculate-present-value-excel.asp): present-value(Yield, Maturity, Coupon, Par, 0)
+
+**Bond Yield Calculations**
+- Maturity: 10
+- Coupon: 80
+- Par Value: 1000
+- Price: 1000
+- **Yield**: 8%
+
+[rate](https://www.investopedia.com/ask/answers/051815/how-can-i-calculate-bonds-coupon-rate-excel.asp) = rate(Maturity, Coupon, -Price,Par Value)
+
+### Three important relationships in bonds
++ The value of a bond is inversily related to changes in the level of interest rates
++ The coupon ties directly to the yield. The market value of the bond is less than par value if the yield on similar bonds is above the coupon interest rate.
++ Long term bonds have greater interest rate risks than short term bonds do.
+
+### Treasury bond markets
+Your income level and tax circumstances play a major role in determining how you should allocate the bond portion of your portfolio.
+
+> **_Treasury Bond_**: are debt securities issued by the US government
+- Safest securities
+- About 4% returns over last 50 years.
+- Exempt from state and local income taxes
+  - Specially usefull in states like California, Oregon, Iowa, and New Jersey where the state income taxes are high.
+  - Some major cities, like New York and Washington DC, have local income taxes, which also make treasury bonds an exceptionally good investment choice.
+- The US Treasury Department finances government debt by issuing **short- and long-term** bonds.
+- > **_T-Bills_**: Short-term obligations with maturities of 13, 26, or 52 weeks.
+  - Don't pay coupon payments, instead pay face value at maturity.
+  - Denominations as small as $1,000.
+  - Sold at a discount basis
+- > **_Treasury Bonds (T-Bonds)_**: Longer-term bonds that pay semiannual coupons in addition to their face value at maturity
+    - Pay coupons, which are semiannual
+    - The interest rate on these bonds is the coupon rate. And that's paid in addition to their face value.
+    - That face value is paid out at maturity.
+    - Denominations as small as $1,000
+    - Very safe and risk free
+    - Substitute for CDs and savinds accounts.
+    - Liquid, Easy to sell
+
+[Tresury Direct](www.tresurydirect.gov)
+
+> **_Treasury auctions_**: essentially the government is selling bonds to the general public and to institutional investors, and you put in a higher price, which is equivalent to a lower yield, if you wanna buy these bonds. The highest prices get awarded the bonds, and people who put in lower prices do not get awarded them. The prices that are set for the bonds is determined based on all the bids, across all the participants in the market.
+
+### Municipal bond markets
+For investors in the **highest income tax brackets**, the best choic of bonds is often **municipal bonds**.
+
+> **_Municipal (Muni) Bonds_**: Bonds issued by state and local governments and other nonprofit entities (e.g. universities).
+  - Safe
+  - Odds of default less than 1%
+  - Returns average 4-6% of amount invested
+
+> _**Tax-Backed Bonds**_
+  - Issued by states, contries, districts, cities, towns, school districts
+  - Secured by tax revenue
+- Revenue Bonds
+  - Issued for special projects (such as a new water treatment plant)
+  - Bondholders paid back from revenues generated by the project financed
+
+**Tax Risk for Muni Bonds**
+1. Individual federal income tax rate reduced. The lower the federal tax rate is, the less valuable that muni tax exemption is.
+
+2. May eventually be taxable by the IRS:
+  - **_1898 Supreme Court Decision_**: Muni bond coupon payments -> No federal income taxes
+  - The US Supreme Court had a landmark 1898 decision which said municipal bonds are not taxable.
+  - However, that doesn't mean that the decision couldn't be challenged or reviewed in the future by the IRS, and ultimately by the Supreme Court.
+
+
+**Tex Yield Valuation**
+$$Equivalent\ Tex\ Yield = \frac{Tax\ Exempt\ Yield}{1 - Marginal\ tax\ rate}$$
+
+The municipal securities market is characterized by **low liquidity**.
+  - Municipal securities trade rarely.
+  - There are more municipal bonds out there than any other form of security.
+  - There's over 80,000 municipal bond issuers, and over 800,000 municipal bonds.
+  - In 2017, about 99% of municipal securities didn't trade on any given day.
+  - Those bonds that do trade, the numbers are very low:
+    - Average of 14 customer trades during first 60 days after issuance.
+    - Newly issued municipal bonds are the mos actively traded
+    - It's rather an buy-and-hold investment, rather than a trading investment.
+    - Almost all municipal bonds do trade in the first month after issuance, but by the time we get to the second month it's only about 15% of them trading, and then after that it's even less.
+
+The market for municipal debt is called the tax-exempt market.
+
+**Pricing Information on Trades**
+
+That secondary market where investors trade bonds between in and one another, for municipal bonds it's just not very trasnparent.
+
+We do have price information comming from MSRB, but pre-trade information is not broadly available.
+
+The MSRB is the Municipal Securities Ruling Board and they are:
+  - Muni bond regulatory group
+  - Since 1995
+
+### Bond ratings and municipal bonds
+- [Invesco](www.invesco.com)
+- Municipal bonds have a default rate of 0.00%, whhere Corporate bonds have a rate of 0.38%
+- All rated municipal bonds have a lower 10-year cumulative default rate htan AAA-rated corporate bonds.
+
+
+### Trading in municipal bonds
+[EMMA] (emma.msrb.org)
+
+- The annual interest payments over the term of the bond, plus the money paid at redemption, will be more than what was paid for the bond. an investor pay more than par value for a bond when the annual interest payments on the bond yields more than the par value at maturity
+- Long-terms bonds have greater interest rates than the interest rates with short-term bonds.  The higher interest rates reflect the greater risk associated with long-term bonds.
+- What is the term for money an investor receives from a bond issuer at maturity? Par is the term for face value of bond received at maturity.
+-  This is the future value you will receive from the bond.
+
+
+## Other Capital Markets
+### FX markets
+- Foreign Exchange Market
+
+**Buying and selling in FX**
+
+**FX arbitrage**
+
+### Commodity markets
+**Buying and selling in commodities**
+
+**Commodities and contango**
+
+
 # Sources:
 - [Understanding Capital Markets (LinkedIn)](https://www.linkedin.com/learning/understanding-capital-markets/)

@@ -58,3 +58,4 @@ IPOs Now
   - ensure the integrity of the futures & swaps markets
 
 ## Stock Markets
+System that enables companies to sell partial ownership in themselves to people in exchange for cash.

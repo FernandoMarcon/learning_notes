@@ -20,6 +20,7 @@ Financial industry is evolving, with computers playing a bigger roles. Algorithm
 - Market-making trades attempt to capitalize on the bid-ask spread - typically associated with high-frequency traders
 - Data-mining trades based on patterns in data, including stock prices and outside information
 - We look for correlations between stock prices and other data points
+- Algo Trading relies on programmable objective criteria.
 
 ### Market making
 **Centralized Order Book: Orders, Stacks, and Matching**
@@ -85,6 +86,8 @@ Field known as Textual Analysis, Natural language processing, Sentiment analysis
 
 Pull qualitative information and transform into quantitative signals that can be used in a model
 
+A dictionary/list of words and their associated content (positive, negative, etc.) is required for sentiment analysis in text.
+
 Increased inerest attributable to:
   - Bigger, faster computers
   - Availability of large quantities of text
@@ -105,10 +108,28 @@ Textual Analysis Software
   - Ability to parse large quantities of text
   - Most modern languages provide for both of these functions (Perl, Python, SAS Text Miner, VB.NET)
 
-### Algorithmic trading with qualitative and text data
+### Algo Trading as a Carrer
+- What do algo traders do?
+- What skills do they need?
+- How does the job/team work?
+- [LinkedIn](https://www.linkedin.com/jobs/search/?keywords=algorithmic%20trading&location=Worldwide)
 
-## Stock Trading with Python
+Typical Job Description
+- Design of frameworks and functionality for development of trading algos
+- Implementation, testing, and production
+- System tuning and optimization
+- Calibration and optimization of parameters
+- Proactive identification of problems and issues and resolution of them
 
-## R and Bond Trading
+## Algorithmic Trading with Python
+- [Stock Trading with Python](https://github.com/FernandoMarcon/learning_notes/blob/main/finance/stock_trading_with_python.py)
 
-## Investment Analysis and Stata
+## Algorithmic Trading with R
+- [R and Bond Trading](https://github.com/FernandoMarcon/learning_notes/blob/main/finance/r_and_bond_trading.R)
+
+## Algorithimic Trading with Stata
+- [Investment Analysis and Stata]()
+
+## Sources:
+- [Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training (LinkedIn Course)](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training/)
+-

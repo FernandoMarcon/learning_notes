@@ -28,11 +28,11 @@ If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
 
 ## Python 3 Main Characteristics
-	- Not backward compatible
-	- Everything is an object
-	- Print is a function
-	- One integer type
-	- All text is now Unicode
+- Not backward compatible
+- Everything is an object
+- Print is a function
+- One integer type
+- All text is now Unicode
 
 The Unicode character set in the editor should match the Unicode standard of Python 3.
 

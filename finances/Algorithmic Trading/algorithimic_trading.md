@@ -2,18 +2,7 @@
 Financial industry is evolving, with computers playing a bigger roles. Algorithmic, or computer-driver, trading now makes up the large majority of trades - more than 90% of orders by some metrics and estimates.
 
 ## General Process
-- Research
-  - Real-time/Historical Data
-  - market/non-market Data
-- Pre-trade Analysis
-  - Alpha Model
-  - Risk Model
-  - Transaction Cost Model
-- Trading Signal
-  - Portfolio Construction Model
-- Trade Execution
-  - Execution Model
-- Post-trade Analysis
+![diagram](algo_trading_general_process_diagram.png "Algorithmic Trading General Process")
 
 ## Basics
 - Algo trading essentially comes in two flavors - market making and data mining

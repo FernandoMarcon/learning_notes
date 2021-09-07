@@ -1,29 +1,14 @@
 # Capital Markets
+
 ## Basics
 Main questions before investing:
   1. Am I being realistic about how much I should earn?
   2. Am I prepared for the __risk__?
   3. Am I confortable with __daily changes__ in my portfolio?
 
-> **_Types of Investors_**: individual and institutional
-
-> **_Listed_**: Stocks trade on the exchange that buyers and sellers go through
-
-> **_Bonds_**: Form of debt companies sell to investors in eschange for receiving a type of interest payment over time
-
-> **_IPO_**: Initial Public Offering, the first time a stock is sold to the general public
-
-> **_Diversification_**: Owning a variety of stocks to minimize the risk of your portfolio
-
-> **_ETF_**: Exchange traded fund; a basket of stocks that trade through an exchange and can be bought, as a basket, by investors
-
-> **_zero-coupon bonds_**: Bonds that do not pay interest but are instead issued below par value, which is the face value of the bond returned to investors at maturity
-
-> **_EPS_**: Earnings per share; the amount of money a company earns for every share of stock
-
-> **_equity_**: Another term for stock, which is ownership shares in a company
-
->  **_ADR_**: American Depository Receipts, are foreign firms trading in the U.S.
+**Types of Investors**
+- Individual
+- Institutional
 
 + Stock returns have an arithmetic of mean of 11.3% for the period 1928 to 2018.
 + Bonds are not traded on an exchange; they are purchased from the issuer and traded between investors.
@@ -131,13 +116,12 @@ _Mutual Fund_
 $$Valuation = \frac{Expected\ Dividend}{Required\ Rate\ of\ Return\ -\ Growth\ Rate}$$
 
 $Growth Rate = This\ Year's\ Revenue - Last\ Year's\ Revenue$
-> **_Required Rate of Return_**: how much stockers expect to receive in returns from a given firm.
-
-> **_Earnings_**: are the amount of money a company earns over time. Reported in a quaterly basis. Beacause of seasonality, some companies will naturally earn more in some quarters than others.
 
 **How often do stocks do poorly?**
 - Do stocks outperform Treasury Bills (Bessinbinder Research)?
-> **_Treasury Bills (T-Bills)_**: Short term bonds issued by the US Treasury that mature in less than a year
+
+**Treasury Bills (T-Bills)**
+Short term bonds issued by the US Treasury that mature in less than a year
 - Peopĺe buy T-Bills as a way to earn just a very small return on their cash with no risk.
 - Pretty close to leave your money in a savings account
 - Traditionally, T-bills have very low returs
@@ -189,37 +173,29 @@ $Growth Rate = This\ Year's\ Revenue - Last\ Year's\ Revenue$
 
 + Stocks should only be a part of your portfolio
 
-> **_Call Option_**: Gives you the right but not the obligation to **buy** a stock at a particular price until some time in the future.
-
-> **_Put Option_**: Gives you the right but not the obligation to **sell** a stock at a particular price until some time in the future.
-
 -  Only institutional investors can trade post-close and pre-open.
 -   The median price for stock is usually higher than the mean (the average).
 -    The market opens at 9:30 a.m. Eastern on all non-holiday weekdays.
 -     While growth stocks often do not pay dividends, they more often have positive returns than value stocks.
 
 ## Bond Markets
-> **_Bond_**: Long-term promissory note, issued by a borrower, promising to its holder a predetermined and fixed amount of interest per year and repayment of principal at maturity.
 
 Issued by corporations, government, state, local municipalities
 
-
 **Major characteristics of bonds:**
-- > **_Par value_**: Face value of the bond, returned to the bondholder at maturity
-- > **_Price_**: Represented as a percentage of face value or par
-- > **_Coupon_**: Percentage of the par value of bond that will be paid periodically in the form of interest.
+- _Par value_
+- _Price_
+- _Coupon_
   - $1,000 par value x 5% annual coupon rate = $50 annually
   - Zero Coupon Bonds:
     - Zero or low coupon rate
     - Don't pay interest
     - Issued at discount below par value
-- > **_Maturity_**: Length of time until bond issuer returns the par value to the bondholder and terminates or redeems the bond
-- > **_Yield_**: Rate of return the investor will earn on the bond after taking into account the price paid for the bond and the coupon on the bond
-
-> **_Call Provision_**: Gives a corporation the option to redeem the bonds before the maturity date
+- _Maturity_
+- _Yield_
+- _Call Provision_
 
 **Bond Rating**
-- Reflects future risk potential of bonds
 - Moody's: AAA, AA1, AA2, AA3, A1, A2, A3, BAA1, BAA2, BAA3, BA1, BA2, BA3, B1, B3, CAA1, CAA2, CAA4, CA, ..., D
 - The lower the bond rating is the higher the probability of default.
 - When the bond defaults, that means that it stops paying coupon payments and interest to the investor, and investors may not get all their money back.
@@ -227,12 +203,11 @@ Issued by corporations, government, state, local municipalities
 - Riskier bonds means an investor won't get paid (all)  their money back, and also that the rate of return demanded by capital markets is going to be higher.
 - If a bond is riskier, you're going to need more in yield, or coupon payments, in order to buy that bond in the first place.
 
-> **_Junk Bonds_**: High-risk bonds with ratings of BB or below by Moody's and Standard&Poor's
-  - High-yield
-  - Higher interest (3-5% more) than AAA-rated bonds
+**Junk Bonds**
+- High-yield
+- Higher interest (3-5% more) than AAA-rated bonds
 
 **Bond evaluation**
-
 Ex:
 - Maturity: 10
 - Par: $1000
@@ -260,18 +235,18 @@ Ex:
 ### Treasury bond markets
 Your income level and tax circumstances play a major role in determining how you should allocate the bond portion of your portfolio.
 
-> **_Treasury Bond_**: are debt securities issued by the US government
+**Treasury Bond**
 - Safest securities
 - About 4% returns over last 50 years.
 - Exempt from state and local income taxes
   - Specially usefull in states like California, Oregon, Iowa, and New Jersey where the state income taxes are high.
   - Some major cities, like New York and Washington DC, have local income taxes, which also make treasury bonds an exceptionally good investment choice.
 - The US Treasury Department finances government debt by issuing **short- and long-term** bonds.
-- > **_T-Bills_**: Short-term obligations with maturities of 13, 26, or 52 weeks.
+- _T-Bills_:
   - Don't pay coupon payments, instead pay face value at maturity.
   - Denominations as small as $1,000.
   - Sold at a discount basis
-- > **_Treasury Bonds (T-Bonds)_**: Longer-term bonds that pay semiannual coupons in addition to their face value at maturity
+- _T-Bonds_:
     - Pay coupons, which are semiannual
     - The interest rate on these bonds is the coupon rate. And that's paid in addition to their face value.
     - That face value is paid out at maturity.
@@ -282,22 +257,20 @@ Your income level and tax circumstances play a major role in determining how you
 
 [Tresury Direct](www.tresurydirect.gov)
 
-> **_Treasury auctions_**: essentially the government is selling bonds to the general public and to institutional investors, and you put in a higher price, which is equivalent to a lower yield, if you wanna buy these bonds. The highest prices get awarded the bonds, and people who put in lower prices do not get awarded them. The prices that are set for the bonds is determined based on all the bids, across all the participants in the market.
-
 ### Municipal bond markets
 For investors in the **highest income tax brackets**, the best choic of bonds is often **municipal bonds**.
 
-> **_Municipal (Muni) Bonds_**: Bonds issued by state and local governments and other nonprofit entities (e.g. universities).
-  - Safe
-  - Odds of default less than 1%
-  - Returns average 4-6% of amount invested
+**Muni Bonds**
+- Safe
+- Odds of default less than 1%
+- Returns average 4-6% of amount invested
 
-> _**Tax-Backed Bonds**_
-  - Issued by states, contries, districts, cities, towns, school districts
-  - Secured by tax revenue
+**Tax-Backed Bonds**_
+- Issued by states, contries, districts, cities, towns, school districts
+- Secured by tax revenue
 - Revenue Bonds
-  - Issued for special projects (such as a new water treatment plant)
-  - Bondholders paid back from revenues generated by the project financed
+- Issued for special projects (such as a new water treatment plant)
+- Bondholders paid back from revenues generated by the project financed
 
 **Tax Risk for Muni Bonds**
 1. Individual federal income tax rate reduced. The lower the federal tax rate is, the less valuable that muni tax exemption is.
@@ -361,10 +334,10 @@ The MSRB is the Municipal Securities Ruling Board and they are:
 - [FOREX](www.forex.com)
 
 #### Trading Strategies
-- **FX arbitrage**
-  > **_Triangular Arbitrage_**: Capitalizing on differences in FX trading across three currencies
-    - Option 1: USD to JPY: 1 USD = 108 JPY
-    - Option 2: USD to EUR to JPY: 1 USD = 110 JPY
+**FX arbitrage**
+- _Triangular Arbitrage_
+  - _Option 1_: USD to JPY: 1 USD = 108 JPY
+  - _Option 2_: USD to EUR to JPY: 1 USD = 110 JPY
 
 ### Commodity markets
 Commodities includes a variety of phisical products and they're bought and sold through exchanges.
@@ -402,5 +375,60 @@ Commodities and contango:
     - part of the contributing factor might be that essentially it has to pay for storage costs through the futures prices
   -  Contango leads the futures price to be higher than the spot price because of certain other contributing factors.
 
-# Sources:
+## Basics of Stock Markets
+
+### The Shrinking Stock Market
+- Fewer companies means more efficient markets.
+- If there are fewer companies out there, it means that are more people paying attention per stock.
+- Greater attention from investors means that it's gotten harder to "pick stocks" over time.
+- Algorithmic trading is a partial solution to this problem.
+
+#### Disappearing Alpha
+
+[False discoveries in mutual fund performance:  measuring luck in estimated alphas](https://web.mit.edu/econometrics/fdr2version.pdf)
+
+The number of mutual funds has risen, the average α, or the average excess return for the typical mutual fund has fallen.
+
+![fig1](figs/disappearing_alpha_fig1.jpeg 'Total Number of Funds and Average α')
+
+In the early 90's, the average mutual fund was able to produce 50 to 100 basis points per year in excess returns. In returns over and above the stock market for its investors.
+
+As we've gotten more and more mutual funds, competition has heaated up and today α are actually negative. The average mutual fund today not only can't beat the stock market, they actually underperform:
+
+![fig2](figs/disappearing_alpha_fig2.jpeg 'Proportion of Unskilled and Skilled Funds')
+- 75.4% of the mutual funds have zero α.
+- Of those with non-zero α, the remaining 24.6%:
+  - 24 of the 24.6 are unskilled, meaning that they can't consistently produce positive alpha.
+  - Only 0.6% of mutual funds can consistently produce positive α.
+
+### Exchange-Traded Funds (ETFs)
+- Group of stocks trading on exchange under a ticker symbol (eg., SPY)
+- "New" financial innovation: started in the 1990s, but growing rapidly today
+- More ETFs than stocks today
+- ETFs cover US and foreign markets
+
+## Bid, Ask, Spread
+$Bid\ Ask\ Spread = Ask - Bid$
+
+The difference between the bid and the ask determines if a trade happens, you have to meet in the middle somewhere.
+
+The bigger and wider the spread is, the less trading goes on.
+
+The spread matter a lot for liquidity, and vice versa. The more often a stock trades, the smaller and narrower that bid-ask spread will be.
+
+## Market Orders
+Buying and selling stocks involves placing order
+
+### Market orders
+- Involves buying a stock at the best available price.
+- Orders routed by price and time placed.
+
+### Limit Orders
+- are like haggling
+- I'm willing to buy stock XYZ at a price no higher than $100
+  - If price hits that level, my order is automatically executed
+  - If does not hit that level, my order does not go through
+
+## Sources:
 - [Understanding Capital Markets (LinkedIn)](https://www.linkedin.com/learning/understanding-capital-markets/)
+- [Algorithmic Trading and Stocks Essential Training](https://www.linkedin.com/learning/algorithmic-trading-and-stocks-essential-training/)

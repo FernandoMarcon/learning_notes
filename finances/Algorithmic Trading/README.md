@@ -186,12 +186,27 @@ $y$: actual, $\hat{y}$: explained, $ϵ$: error
     - Momentum can be measured by earnings or stock price
 
 ## Building Algorithms
+### Data Gathering
+- [FRED Data](https://fred.stlouisfed.org/)
+  - [FRED API](https://fred.stlouisfed.org/docs/api/api_key.html)
+    - R
+      - https://github.com/jcizel/FredR
+      - https://github.com/markushhh/FredApi
+      - https://github.com/onnokleen/alfred
+      - https://github.com/sboysel/fredr
+    - Python
+      - https://github.com/7astro7/full_fred
+      - https://github.com/avelkoski/FRB
+      - https://github.com/jjotterson/datapungi_fed
+      - https://github.com/letsgoexploring/fredpy
+      - https://github.com/zachwill/fred
+      - https://github.com/mortada/fredapi
 
 ## Algorithmic Trading with Python
 - [Stock Trading with Python](https://github.com/FernandoMarcon/learning_notes/blob/main/finance/stock_trading_with_python.py)
-- [Trying to understand wheter any of the prices seem artificially high or low, over a particular period of time.]()
-- [ETF Pairs Trading]()
-- [Dual share class pairs trading]()
+- [Trying to understand wheter any of the prices seem artificially high or low, over a particular period of time.](https://github.com/FernandoMarcon/learning_notes/blob/main/finances/Algorithmic%20Trading/VIX_moving_average.py)
+- [ETF Pairs Trading](https://github.com/FernandoMarcon/learning_notes/blob/main/finances/Algorithmic%20Trading/ETF_pairs_trading_with_algorithms.py)
+- [Dual share class pairs trading](https://github.com/FernandoMarcon/learning_notes/blob/main/finances/Algorithmic%20Trading/dual_share_class_pairs_trading.py)
 
 ## Algorithmic Trading with R
 - [R and Bond Trading](https://github.com/FernandoMarcon/learning_notes/blob/main/finance/r_and_bond_trading.R)
@@ -208,6 +223,47 @@ Typical Job Description
 - System tuning and optimization
 - Calibration and optimization of parameters
 - Proactive identification of problems and issues and resolution of them
+
+## Buying and Selling with Algorithms
+- Strategies and rules for an algorithm are jsut the beginning
+- Process for buying and selling varies significantly
+- High-frequency trading firms tap directly into exchange networks to trade
+- Most quant firms have separate systems for research versus trading
+
+### Trade Considerations
+- Automating an algorithm to make trade decisions directly can be dangerous
+- Raft of factors to take into account
+  - Liquidity in a stock
+  - Bid-ask sprea imbalances
+  - Removal of human "brake"
+
+### Make-or-Take Liquidity
+- At-large asset managers are a key consideration in reducing trading costs
+- Make-or-take liquidity plays an important role
+- Providing liquidity in markets can reduce trade cost
+- Will your firm be providing liquidity by buying when everyone else sells?
+
+### Expanding Algorithms
+- diversification is key to any portfolio
+- Look for algo strategies that complement one another
+- Consider evaluating returns based on days when capital is used rather than absolute annual returns
+
+### Correlations and Bonds
+- Bonds are a good source of low-correlation trades with equities
+- Bond trading is harder but not impossible
+- Remember: Correlations across all assets go to 1 in times of stress
+
+### TRACE and MSRB
+- Looking for data on bonds
+- Consider two free sources of pricing
+- TRACE: Trade Reporting and Complience Engine
+- MSRB: Municipal Securities Rulemaking Board
+
+### Scenario Analysis
+- Risk management in algo trading is crucial
+- Consider these two tools:
+  - Value at Risk (VAR): Is a statistical measure that tells us the expected losses under certain ordinary market conditions.
+  - Expected shortfall: captures tail risks
 
 ## Sources:
 - [Algorithmic Trading and Finance Models with Python, R, and Stata Essential Training (LinkedIn Course)](https://www.linkedin.com/learning/algorithmic-trading-and-finance-models-with-python-r-and-stata-essential-training/)

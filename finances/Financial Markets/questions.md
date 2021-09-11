@@ -1,0 +1,8 @@
+- How to calculate the correlation between two stocks?
+- How to infer if two firms are independent?
+- Which is better: invest in correlated business or independent? → independent, you need to look for low covariance. Risk is determined by covariance.
+- What are hedge funds?
+- What are bubles? What characteristics define them?
+- Systemic risk?
+- Stock broker?
+- What are the measures of risk? → VaR, ... ?

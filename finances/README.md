@@ -432,3 +432,4 @@ Buying and selling stocks involves placing order
 ## Sources:
 - [Understanding Capital Markets (LinkedIn)](https://www.linkedin.com/learning/understanding-capital-markets/)
 - [Algorithmic Trading and Stocks Essential Training](https://www.linkedin.com/learning/algorithmic-trading-and-stocks-essential-training/)
+- [Introduction to Financial Markets Course](https://www.coursera.org/learn/financial-markets-global)
